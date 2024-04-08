@@ -30,11 +30,11 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 OWNER_ID = os.getenv("OWNER_ID", "")
 SUDO_ID = "6753014811"
 LUCIFER = "6762113050"
-COWNER_ID = "6753014811"
+COWNER_ID = "6919199044"
 OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int(LUCIFER)]
 #TelegramClient..
 sree = TelegramClient(
-    "Banall",
+    "BanALL",
     api_id=API_ID,
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
