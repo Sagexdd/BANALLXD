@@ -1,4 +1,4 @@
-# Powered by @itzshukla | TELE:- @SHIVANSH474
+# Powered by @sagexdd | TELE:- @sage_xd
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by SHASHANK SHUKLA
 import logging
@@ -28,27 +28,27 @@ API_ID = int(os.getenv("API_ID", ""))
 API_HASH = os.getenv("API_HASH", "")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 OWNER_ID = os.getenv("OWNER_ID", "")
-SUDO_ID = "6868182331"
+SUDO_ID = "6753014811"
 LUCIFER = "6762113050"
-COWNER_ID = "6919199044"
+COWNER_ID = "6753014811"
 OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int(LUCIFER)]
 #TelegramClient..
 sree = TelegramClient(
-    "BanAll",
+    "Banall",
     api_id=API_ID,
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "SHIVANSH39"
-repo = "https://github.com/itzshukla/STRANGER-BANALL"
+Owner = "sagexd"
+repo = "https://github.com/Sagexdd/BANALLXD"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/STRANGERXWORLD"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/SHIVANSH474"), Button.url("••ʀᴇᴘᴏ••", f'{repo}')]
+    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/sage_bot_support"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/team_sage_xd"), Button.url("••ʀᴇᴘᴏ••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://graph.org/file/1d11deb9c55d1301e9cae.jpg",
+            file="https://telegra.ph/file/816a63029c5ed26f3037a.jpg",
             caption=startxt.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -62,7 +62,7 @@ async def start(event):
     if event.sender.id not in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://graph.org/file/1d11deb9c55d1301e9cae.jpg",
+            file="https://telegra.ph/file/816a63029c5ed26f3037a.jpg",
             caption=startxt2.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -77,7 +77,7 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/STRANGERXWORLD"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/SHIVANSH474"),
+    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/sage_bot_support"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/team_sage_xd"),
     Button.url("••ʀᴇᴘᴏ••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
