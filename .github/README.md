@@ -1,6 +1,6 @@
 <h3 align="center"><strong><code>BanallBot 🚀</code></strong></h3>
 
-<img src="https://github.com/itzshukla/STRANGER-BANALL" alt="Unable To serve You">
+<img src="https://github.com/Sagexdd/BANALLXD" alt="Unable To serve You">
 <blockquote>
 <strong><i>❍&nbsp;Telegram banall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
 </blockquote>
@@ -14,7 +14,7 @@
 ❍ <code>BOT_TOKEN</code><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/Botfather"><code>@BOTFATHER</code></a><br>
 ❍ <code>OWNER_ID</code><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/StrangerSuperbot"><code>@StrangerSuperbot</code></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/@my_id_bot"><code>@StrangerSuperbot</code></a>
 </details><details>
 <summary><h4><strong><i>Commands⚙️🛠️</i></strong></h4></summary>
 &nbsp;◍&nbsp;<code>/ping</code>&nbsp;:&nbsp;<strong>To Check Bot Ping Status.</strong><br>
@@ -24,7 +24,7 @@
 </details><details>
 <summary><h4><strong>❍&nbsp;Deploy On Heroku 🚀.</strong></h4></summary>
 <blockquote><strong>Hey You can deploy this bot on <code>Heroku</code> very easly from here!!</strong><br><br>
-<a href="https://heroku.com/deploy?template=https://github.com/itzshukla/STRANGER-BANALL"><img src="https://img.shields.io/badge/Deploy%20To%20HerokBanallp?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Sagexdd/BANALLXD"><img src="https://img.shields.io/badge/Deploy%20To%20HerokBanallp?style=for-the-badge&logo=heroku" width="200""/></a>
 </blockquote> 
 </details>
 </p>
@@ -32,9 +32,9 @@
 <h3><strong><i>Forks nd Stars🍽️</i></strong></h3>
 <pre>
 <p align="center">
-<img src="https://img.shields.io/github/license/itzshukla/STRANGER-BANALL.svg"> <img src="https://img.shields.io/github/forks/itzshukla/STRANGER-BANALL.svg"> <img src="https://img.shields.io/github/stars/itzshukla/STRANGER-BANALL.svg">
-<a href="https://github.com/itzshukla/STRANGER-BANALL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-BANALL&theme=blue-green"></a>
-<a href="https://github.com/itzshukla/STRANGER-BANALL/fork"><img src="https://img.shields.io/badge/Fork%20STRANGER-BANALL%20-black?style=for-the-badge&logo=github"></a>
+<img src="https://img.shields.io/github/license/Sagexxd/BANALLXD.svg"> <img src="https://img.shields.io/github/forks/Sagexxd/BANALLXD.svg"> <img src="https://img.shields.io/github/stars/Sagexxd/BANALLXD.svg">
+<a href="https://github.com/Sagexxd/BANALLXD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagexdd&repo=BANALLXD&theme=blue-green"></a>
+<a href="https://github.com/Sagexxd/BANALLXD/fork"><img src="https://img.shields.io/badge/Fork%20BANALLXD%20-black?style=for-the-badge&logo=github"></a>
 </P>
 </pre>
 </p>
