@@ -1,4 +1,4 @@
-# Powered by @itzshukla | Tele:- @SHIVANSH474
+# Powered by @Sagexdd | Tele:- @sage_xd
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by by only you
 # Kangers ki mkc
@@ -18,7 +18,7 @@ __ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴀʟʀᴇᴀᴅʏ ᴍᴀsᴛᴇʀ 🔥!
 **ᴍʏ ʟɪʙ's ɪɴғᴏ!**
 ❍ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ » `{}`
 ❍ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ » `{}`
-❍ ᴄᴏᴅᴇ ᴏᴡɴᴇʀ » [sᴛʀᴀɴɢᴇʀ](https://t.me/SHIVANSH39)
+❍ ᴄᴏᴅᴇ ᴏᴡɴᴇʀ » [sᴀɢᴇ](https://t.me/sage_xd)
 
 ᴛʏᴘᴇ /help ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs!
 """
@@ -31,7 +31,7 @@ __ᴛʜɪs ɪs ʙᴀɴᴀʟʟ ʙᴏᴛ\ɴᴏɴʟʏ ᴍʏ ᴏᴡɴᴇʀ ᴄᴀɴ 
 **ᴍʏ ʟɪʙ's ɪɴғᴏ!**
 ❍ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ » `{}`
 ❍ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ » `{}`
-❍ ᴄᴏᴅᴇ ᴏᴡɴᴇʀ » [sᴛʀᴀɴɢᴇʀ](https://t.me/SHIVANSH39)
+❍ ᴄᴏᴅᴇ ᴏᴡɴᴇʀ » [sᴀɢᴇ](https://t.me/sage_xd)
 """
 
 hlptxt = """ ᴍᴇᴏᴡ [{}](tg://user?id={}),
@@ -44,5 +44,5 @@ __ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ᴍᴇɴᴜ__:
 ❅ /leave - ᴛᴏ ʟᴇᴀᴠᴇ ɢʀᴏᴜᴘ.
 ❅ /restart - ᴛᴏ ʀᴇsᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ.
 
-❍ ғᴀᴄɪɴɢ ᴀɴʏ kind ᴏғ ɪssᴜᴇ ᴛʜᴇɴ ᴊᴜsᴛ ᴊᴏɪɴ ᴏᴜʀ [sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/STRANGERXWORLD) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ!!
+❍ ғᴀᴄɪɴɢ ᴀɴʏ kind ᴏғ ɪssᴜᴇ ᴛʜᴇɴ ᴊᴜsᴛ ᴊᴏɪɴ ᴏᴜʀ [sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/sage_bot_support) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ!!
 """
